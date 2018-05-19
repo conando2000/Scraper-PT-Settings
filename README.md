@@ -37,6 +37,9 @@ __NOTE:__ One might wonder why the default BTC trend trigger setting is not that
 
 **6) Possible Buy List Max Spread filtering** is the last of a number of "protective layers" these settings employ to save you from bags. I have set them very very narrow on purpose, the idea being pretty simple: especially when looking at a dip/downtrend (as we are buying into those mainly) it is usually the case that the spread (difference between ask and bid prices in the orderbook) is quite high (=volatile) when we are still on a "downwards slope" and we don't want to buy too early before reaching the "bottom" of the dip. A tight max spread helps a lot with this - for DCA i set it even tighter as it is supposed to counteract my "tight" DCA in cases when we have a more violent downward dip, so the DCA doesn't double down immediately when triggered but more towards the coming dip.
 
+As these settings are optimized for Binance, if you don't have an account yet you might want to use my referral link to sign up to support my work:
+
+➔ [https://www.binance.com/?ref=10761328]
 
 ```
 If Scraper works for you and you like to support further tweaking/backtesting, feel free to tip:
