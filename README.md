@@ -1,3 +1,12 @@
+```
+If Scraper works for you and you like to support further tweaking/backtesting, feel free to tip:
+
+LTC ➔ LUYTeXwcUNRvcReQkhvcyBN6wUQHqJTH46
+ETH ➔ 0xea55c8a453899d5E587d264b195A2EeF8BABF763
+BTC ➔ 35PtGJtwxw45E4tV2aAXcdyp4YacZv3Mgf
+BCH ➔ qpe2h667sndntd0da4szp9fj4huscnjjugga2ejmju
+```
+
 # Scraper ProfitTrailer Settings
 
 Welcome to the home of "Scraper" - a tiny bundle of "lean & mean" settings for ProfitTrailer 1 & 2 to scalp/scrape off of little chart swings in altcoins without bagging up!
