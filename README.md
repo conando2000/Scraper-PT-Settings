@@ -1,4 +1,4 @@
-__NEW PROJECT:__ Automated trading via TradingView - https://profitview.app
+__NEW PROJECT:__ [Automated trading via TradingView -> ProfitView](https://profitview.app){:target="_blank"}
 
 ```
 If Scraper works for you and you like to support further tweaking/backtesting, feel free to tip:
